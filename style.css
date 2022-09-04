@@ -27,7 +27,7 @@ footer {
   bottom: 8px;
 }
 
-#content {
+.char-width {
   max-width: 70ch;
 }
 
