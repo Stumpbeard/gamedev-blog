@@ -55,3 +55,11 @@ p {
   right: 30px;
   max-width: 30ch;
 }
+
+a {
+  color: #DE4788;
+}
+
+a:visited {
+  color: #91365D;
+}
