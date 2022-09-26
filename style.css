@@ -27,6 +27,10 @@ footer {
   bottom: 8px;
 }
 
+ul {
+  padding-left: 2ch;
+}
+
 .char-width {
   max-width: 70ch;
 }
@@ -39,4 +43,15 @@ footer {
 #h1-img>img {
   height: 2em;
   margin-right: 8px;
+}
+
+p {
+  margin-bottom: 1ch;
+}
+
+#playlist {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  max-width: 30ch;
 }
